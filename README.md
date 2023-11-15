@@ -2,6 +2,8 @@
 
 This program is intended to let me experiment with genetic learning through the game of checkers. It's also a functional pass and play checkers program.
 
+PLEASE NOTE: This application is in active development and may have many errors. It is intended to be updated frequently in the near future.
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
