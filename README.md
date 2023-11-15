@@ -11,7 +11,7 @@ PLEASE NOTE: This application is in active development and may have many errors.
 
 ## Installation
 
-Installation instructions to come, I'm currently in the process of setting up the repo and will come back to this in the near future.
+Use Eclipse IDE's built in github functionality to find this project and import it using File -> Import -> Existing Projects into Workspace.
 
 ## Usage
 
